@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKER_IMAGE: WEBPRAC.io/${{ github.actor }}/WEBPRAC    #생성할 이미지 명
+  DOCKER_IMAGE: ghcr.io/${{ github.actor }}/WEBPRAC    #생성할 이미지 명
   VERSION: ${{ github.sha }}
   NAME: WEBPRAC_container    #생성할 컨테이너 명
 
