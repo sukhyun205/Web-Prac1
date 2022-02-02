@@ -1,3 +1,36 @@
+
+
+
+
+.box1-borderstyle {
+    border: 50px solid #e74c3c;
+}
+
+.box2-borderstyle {
+    border: 50px solid green;
+}
+
+.box3-borderstyle {
+        border: 50px solid #3498db;
+    
+}
+
+.box-size {
+    width: 200px;
+    padding: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.box-size2 {
+    width: 200px;
+    padding: 50px;
+    margin-bottom: 20px;
+    visibility: hidden;
+    
+}
+
+
 .red {
     color:red;
     background-color: yellow;
@@ -10,4 +43,10 @@
 
 .border-blue {
     border: 2px solid blue;
+}
+
+
+
+.yellow {
+    color: yellow;
 }
